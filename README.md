@@ -1,6 +1,13 @@
-### Hi there 👋
+### Howdy-doo, kangaroo!👋
+----------------------------------------------- **FarHaD();** -------------------------------------------
 
-<!--
+------------------------------------- 🇸🇪 **STOCKHOLM SWEDEN** :sweden: ------------------------------------
+- 👨‍💻 My name is Farhad Roshan and I'm from Stockholm Sweden 🌅
+- 🔭 I’m currently studying my master in computer and system science 💻 in Stockholm university.
+- ⚱ I solve at least two programming challenges from <a href="https://codeforces.com/problemset/" target="_blank">Codeforces</a>
+- The languages that I daily use are Java <img src="" alt="javaicon">
+- 💬 Ask me about 
+<!--👢
 **Darknight47/Darknight47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
