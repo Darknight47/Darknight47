@@ -3,7 +3,7 @@
 
 ------------------------------------- 🇸🇪 **STOCKHOLM SWEDEN** :sweden: ------------------------------------
 - 👨‍💻 My name is Farhad Roshan and I'm from Stockholm Sweden 🌅
-- 🔭 I’m currently studying my master in computer and system science 💻 in Stockholm university.
+- 🔭 I’m currently studying my master in computer and system science 💻 at Stockholm university.
 - ⚱ I solve at least two programming challenges from <a href="https://codeforces.com/problemset/" target="_blank">Codeforces</a> every day!
 - 🧨 The languages that I daily use are Java <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" width="24" height="24" alt="javaicon"> <img width="24" src="https://icons.iconarchive.com/icons/kzzu/i-love-you/128/Coffee-brown-icon.png" alt="javacup">
 and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="PythonIcon" width="26" height=auto>
