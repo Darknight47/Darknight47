@@ -21,6 +21,7 @@ and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/
 ### System Development with: 
 * I studied computer science at Stockholm university (bachelor level) and learned how to develop a system 💻!
 * Most specifically I learned how to write readable, reliable and maintainable code through my years of studying for my bachelor’s degree!
+* Since 2019 I have been teaching and developing studio material for an organisation called HelloWorld!. It’s a non-profit that focuses on introducing coding and computer science to young students.
 * In my free time, I'm working on a full-stack web application!
 
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="158"> <img src="https://img.icons8.com/?size=50&id=90519&format=png" alt="spring boot + mongoDB" width="64"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="62"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="158" alt="JS">
