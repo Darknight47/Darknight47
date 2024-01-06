@@ -11,7 +11,7 @@ and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/
 - ⚡ Specifically ask me about:
 
 ### Game Development With:
-* I studied game development at high school (3 years) and developed many games, mostly 2D games!
+* I studied game development at high school (Gymnasiet) (3 years) and developed many games, mostly 2D games!
 * Between 2019 and 2023, I had been teaching and developing studio material for an organisation called HelloWorld!. It’s a non-profit that focused on introducing coding and computer science to young students.
 * Nowadays I go back to game development and working on a project as soon as I find free time!
   
@@ -20,7 +20,7 @@ and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/
 <hr/>
 
 ### System Development with: 
-* I studied computer science at Stockholm university (bachelor level) and learned how to develop a system 💻!
+* I studied computer science at Stockholm university (bachelor level / kandidatnivå) and learned how to develop a system 💻!
 * Most specifically I learned how to write readable, reliable and maintainable code through my years of studying for my bachelor’s degree!
 * In my free time, I'm working on a full-stack web application!
 
