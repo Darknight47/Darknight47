@@ -33,7 +33,6 @@ and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/108/365/non_2x/colorful-statistics-icons-vector.jpg" width="145" height="auto" alt="Stat"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> <img src="https://www.learnsimpli.com/wp-content/uploads/2021/05/Data-structure-and-algorithms.png" width="100" alt="DSA"> <img src="https://static.thenounproject.com/png/3929129-200.png" width="98" alt="DM"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-2442283-2028132.png" width="98" alt="ML"> 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Darknight47&langs_count=5&theme=tokyonight)]()
 
 <!--👢
 **Darknight47/Darknight47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
