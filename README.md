@@ -5,8 +5,7 @@
 - 👨‍💻 My name is Farhad Roshan and I'm from Stockholm Sweden 🌅
 - 🔭 I’m currently studying my master in computer and system science 💻 at Stockholm university.
 - ⚱ I solve at least two programming challenges from <a href="https://codeforces.com/problemset/" target="_blank">Codeforces</a> every day!
-- 🧨 The languages that I daily use are Java <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Java-icon.png" width="24" height="24" alt="javaicon"> <img width="24" src="https://icons.iconarchive.com/icons/kzzu/i-love-you/128/Coffee-brown-icon.png" alt="javacup">
-and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="PythonIcon" width="26" height=auto>
+- 🧨 The languages that I daily use is Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" alt="PythonIcon" width="26" height=auto>
 - 💬 Ask me anything about the technology world 💻 📱🔆!
 - ⚡ Specifically ask me about:
 
@@ -24,7 +23,7 @@ and Python <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/
 * Most specifically I learned how to write readable, reliable and maintainable code through my years of studying for my bachelor’s degree!
 * In my free time, I'm working on a full-stack web application!
 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="158"> <img src="https://img.icons8.com/?size=50&id=90519&format=png" alt="spring boot + mongoDB" width="64"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="62"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="158" alt="JS">
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="158"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="158" height="auto"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="158" alt="JS">
 <hr/>
 
 ### Data Science:
