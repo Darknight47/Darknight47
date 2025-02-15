@@ -26,11 +26,23 @@
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="158"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="158" height="auto"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="158" alt="JS">
 <hr/>
 
-### Data Science:
-* I'm currently studying my master in data and computer science at Stockholm university! 
-* And I'm focusing specifically on data science field!
+### Data Engineering with:
+* I'm currently studying my master in data and computer science!
+* For some of my projects I've implemented, and optimized ETL/ELT pipelines to streamline data processing and ensure efficient data flow for insightful analysis.
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/108/365/non_2x/colorful-statistics-icons-vector.jpg" width="145" height="auto" alt="Stat"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> <img src="https://www.learnsimpli.com/wp-content/uploads/2021/05/Data-structure-and-algorithms.png" width="100" alt="DSA"> <img src="https://static.thenounproject.com/png/3929129-200.png" width="98" alt="DM"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-2442283-2028132.png" width="98" alt="ML"> 
+<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="145" height="auto" alt="AWS"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/1024px-Hadoop_logo_new.svg.png" width="198" height="auto" alt="haddop"> 
+<img src="https://cdnlogo.com/logos/m/47/mysql.svg" width="165" height="auto" alt="mysql">
+<hr/>
+
+### Data Science with:
+* I'm currently studying my master in data and computer science!
+* The repositories show some of my side projects!
+
+<img src="https://static.vecteezy.com/system/resources/previews/000/108/365/non_2x/colorful-statistics-icons-vector.jpg" width="145" height="auto" alt="Stat"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> 
+<img src="https://www.learnsimpli.com/wp-content/uploads/2021/05/Data-structure-and-algorithms.png" width="100" alt="DSA"> 
+<img src="https://static.thenounproject.com/png/3929129-200.png" width="98" alt="DM"> 
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-2442283-2028132.png" width="98" alt="ML"> 
 
 
 <!--👢
