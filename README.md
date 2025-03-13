@@ -30,8 +30,8 @@
 * I'm currently studying my master in data and computer science!
 * For some of my projects I've implemented, and optimized ETL/ELT pipelines to streamline data processing and ensure efficient data flow for insightful analysis.
 
-<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="145" height="auto" alt="AWS"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="200" height="auto" alt="Java">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/1024px-Hadoop_logo_new.svg.png" width="198" height="auto" alt="haddop"> 
+<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="145" height="auto" alt="AWS"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="180" height="auto" alt="Java">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/1024px-Hadoop_logo_new.svg.png" width="178" height="auto" alt="haddop"> 
 <img src="https://cdnlogo.com/logos/m/47/mysql.svg" width="165" height="auto" alt="mysql">  
 <hr/>
 
