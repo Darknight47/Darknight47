@@ -26,17 +26,16 @@
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="158"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="158" height="auto"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="158" alt="JS">
 <hr/>
 
-### Data Engineering with:
-* I'm currently studying my master in data and computer science!
+### Data Engineering with (Azure Databricks):
+* I studied my master in Computer and Data Science!
 * For some of my projects I've implemented, and optimized ETL/ELT pipelines to streamline data processing and ensure efficient data flow for insightful analysis.
 
-<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="145" height="auto" alt="AWS"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="180" height="auto" alt="Java">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo_new.svg/1024px-Hadoop_logo_new.svg.png" width="178" height="auto" alt="haddop"> 
-<img src="https://cdnlogo.com/logos/m/47/mysql.svg" width="165" height="auto" alt="mysql">  
+<img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="145" height="auto" alt="Azure"> <img src="https://logos-world.net/wp-content/uploads/2024/01/Databricks-Logo.png" width="178" alt="DBricks"> 
+<img src="https://cdnlogo.com/logos/m/47/mysql.svg" width="165" height="auto" alt="mysql"> <img src="https://the-examples-book.com/tools/anvil/_images/pyspark.png" width="220" height="auto" alt="spark"> 
 <hr/>
 
 ### Data Science with:
-* I'm currently studying my master in data and computer science!
+* I studied my master in Computer and Data Science!
 * The repositories show some of my side projects!
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/108/365/non_2x/colorful-statistics-icons-vector.jpg" width="145" height="auto" alt="Stat"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="158" alt="Python"> 
